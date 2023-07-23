@@ -10,7 +10,7 @@ This is a simple To-Do List Manager program written in C. It allows you to creat
 
 ## Compile and Run:
 To compile the program, use a C compiler, for example:
-gcc main.c task.c -o todo_manager
+`gcc main.c task.c -o todo_manager`
 
 To run the compiled program, execute:
-./todo_manager
+`./todo_manager`
